@@ -2,8 +2,7 @@
   "mcpServers": {
     "laravel-boost": {
       "command": "php",
-      "args": ["artisan", "boost:mcp"],
-      "cwd": "D:\\test_task"
+      "args": ["artisan", "boost:mcp"]
     }
   }
 }
